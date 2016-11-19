@@ -1,0 +1,7 @@
+format:
+  - '&bREPORT &6#(id)'
+  - '  &7> &bPlayer&8: &c(reported)'
+  - '  &7> &bReporter&8: &c(reporter)'
+  - '  &7> &bReason&8: &a(reason)'
+cooldown: 15
+permission: report.see

@@ -1,0 +1,6 @@
+Name: Report
+main: me.lagswitcher.Main
+Author: LagSwitcher
+version: 1.0
+commands:
+  report:
